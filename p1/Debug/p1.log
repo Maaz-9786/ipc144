@@ -1,0 +1,6 @@
+﻿  main1.c
+  w6p1.c
+C:\Users\Zoya\Desktop\IPC-Workshops-master\WS06\p1\w6p1.c(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Zoya\Desktop\IPC-Workshops-master\WS06\p1\w6p1.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Generating Code...
+  p1.vcxproj -> C:\Users\Zoya\Desktop\IPC-Workshops-master\WS06\p1\Debug\p1.exe
